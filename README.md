@@ -1,4 +1,4 @@
-How to run:
+# How to run:
 
 1. change url in database.py
 SQLALCHEMY_DATABASE_URL = "mysql+mysqlconnector://<username>:<password>@localhost:3306/<database>"
