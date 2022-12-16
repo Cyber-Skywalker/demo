@@ -1,4 +1,6 @@
-# How to run:
+# Demo
+
+## How to run
 
 1. change url in database.py
 `SQLALCHEMY_DATABASE_URL = "mysql+mysqlconnector://<username>:<password>@localhost:3306/<database>"`
@@ -9,3 +11,6 @@
 `pip install -r requirements.txt`
 `uvicorn main:app --reload`
 
+## Notice
+
+- we will use React for the front end pages
