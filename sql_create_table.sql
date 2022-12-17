@@ -1,5 +1,5 @@
 create table movie(
-    id int primary key,
+    id int not null auto_increment primary key,
     name varchar(50) unique,
     `desc` text,
     type varchar(20),
