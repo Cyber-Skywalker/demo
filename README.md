@@ -20,7 +20,7 @@
 
 ## How to use git in pycharm
 
-For Example:
+For Example, if your branch is main and github url is like this:
 
 1. `git remote add main https://github.com/Cyber-Skywalker/Demo.git`
 
