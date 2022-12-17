@@ -1,4 +1,4 @@
-# Demo
+# demo
 
 ## How to run
 
@@ -25,3 +25,12 @@ For Example, if your branch is main and github url is like this:
 1. `git remote add main https://github.com/Cyber-Skywalker/Demo.git`
 
 2. `git push -u origin main`
+
+## Helpful URLs
+- fastapi documentation: https://fastapi.tiangolo.com/
+- project from last year posted by TA: https://github.com/Linyu-Li
+- fastapi and redis which could help you complete ui: https://github.com/Iris1e27/fastapi-microservices
+- fastapi with rds model: this demo
+- if you have some code questions, you can search here: https://chat.openai.com/chat
+- sprint 1: https://github.com/donald-f-ferguson/Topics-in-SW-Engineering-F22/blob/main/Sprints/SPRINT-1.md
+- sprint 2: https://github.com/donald-f-ferguson/Topics-in-SW-Engineering-F22/blob/main/docs/Project-Sprints/README-Sprint-2.md
