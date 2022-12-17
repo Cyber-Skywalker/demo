@@ -2,6 +2,8 @@
 
 ## How to run
 
+0. create a schema first by using datagrip
+
 1. change url in database.py
 `SQLALCHEMY_DATABASE_URL = "mysql+mysqlconnector://<username>:<password>@localhost:3306/<database>"`
 
@@ -14,3 +16,12 @@
 ## Notice
 
 - we will use React for the front end pages
+- It is only a demo
+
+## How to use git in pycharm
+
+For Example:
+
+1. `git remote add main https://github.com/Cyber-Skywalker/Demo.git`
+
+2. `git push -u origin main`
