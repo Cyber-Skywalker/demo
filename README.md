@@ -9,7 +9,7 @@
 
 2. run sql_create_table.sql in your local database
 
-3. run command in terminal
+3. run command in terminal (pycharm)
 `pip install -r requirements.txt`
 `uvicorn main:app --reload`
 
